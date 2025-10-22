@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## Get in Touch
+
+- Email: yishakwork@gmail.com
+- Linkedin: https://linkedin.com/u/yishakdev
+- Website: https://www.yishak.dev
+
 <!--
 **yishakdev/yishakdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
