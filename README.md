@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yishakdev&label=Profile%20views&color=0e75b6&style=flat" alt="yishakdev" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.yishak.dev](https://www.yishak.dev)
+- 👨‍💻 All of my projects are available at [https://yishak.dev](https://yishak.dev)
 
 - 📫 How to reach me **yishakwork@gmail.com** or **me@yishak.dev**
 
