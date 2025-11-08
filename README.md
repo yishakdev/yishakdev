@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.yishak.dev](https://www.yishak.dev)
 
-- 📫 How to reach me **yishakwork@gmail.com**
+- 📫 How to reach me **yishakwork@gmail.com** **me@yishak.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
